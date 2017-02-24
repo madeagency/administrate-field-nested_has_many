@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "administrate", "~> 0.3.0"
   gem.add_dependency "cocoon"
-  gem.add_dependency "rails", "5.0"
+  gem.add_dependency "rails", "~> 5.0.0"
 end
